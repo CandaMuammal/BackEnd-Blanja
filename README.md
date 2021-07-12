@@ -10,7 +10,7 @@ Modules and Packages :
 - morgan
 - cors
 - dotenv
-- standad js
+- standard js
 - http-error
 - mysql
 - express
