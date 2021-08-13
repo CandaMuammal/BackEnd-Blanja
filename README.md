@@ -6,13 +6,15 @@
 
 ## ✏️ About
 
-Zwallet is a digital wallet application that simplifies your financial needs and can save a lot of time on your banking needs with just one application. Zwallet is in the field of digital banking, which is increasingly developing rapidly as technology advances. This application is able to save money, make transfers between users or top up balances.
+Zwallet is a digital wallet apps that will really helps you to manage your e-money. Using Zwallet you'll be allowed to do some transaction with only a few taps on your screen. In other words, with this apps you can easily save money, transfer it to other, and also top up some moneys and add them to your Zwallet's balance.
 
 ## 🔖Build With
 
-- NextJS
-- Redux
-- Bootstrap
+- ReactJs
+- ExpressJs
+- NodeJs
+- MySQL
+- JWT
 
 ## 💻 How To Install?
 
