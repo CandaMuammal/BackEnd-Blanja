@@ -6,11 +6,11 @@
 
 ---
 
-## ✏️ About
+##  About
 
 Zwallet is a digital wallet apps that will really helps you to manage your e-money. Using Zwallet you'll be allowed to do some transaction with only a few taps on your screen. In other words, with this apps you can easily save money, transfer it to other, and also top up some moneys and add them to your Zwallet's balance.
 
-## 🔖Build With
+##  Build With
 
 - ReactJs
 - Redux
@@ -59,7 +59,7 @@ Zwallet is a digital wallet apps that will really helps you to manage your e-mon
     "web-vitals": "^1.0.1"
 
 
-## 💻 How To Install?
+##  How To Install?
 
 - Clone These 2 Repos (Backend and Frontend)
 
@@ -122,7 +122,7 @@ This is the repository Backend of the Bootcamp Arkademy task
 |  `POST`   | /transactions/topup |    Topup money    |
 
 
-## Screenshot
+## Screenshots
 
 <p align="center">
   <span>
