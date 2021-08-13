@@ -1,6 +1,8 @@
 <p align="center">
-  zWallet
+     <img src="https://i.postimg.cc/WpmxhFCx/zwallet6.png"   alt= border="0" />
+
 </p>
+
 
 ---
 
@@ -125,5 +127,9 @@ This is the repository Backend of the Bootcamp Arkademy task
 <p align="center">
   <span>
    <img src="https://i.postimg.cc/9f9d8Tjp/zwallet1.png"   alt= border="0" />
+   <img src="https://i.postimg.cc/d3TMx441/zwallet2.png"   alt= border="0" />
+   <img src="https://i.postimg.cc/tCQCHxPf/zwallet3.png"   alt= border="0" />
+   <img src="https://i.postimg.cc/prDvds8S/zwallet4.png"   alt= border="0" />
+   <img src="https://i.postimg.cc/mrtG9LCC/zwallet5.png"   alt= border="0" />
   </span>
 </p>
