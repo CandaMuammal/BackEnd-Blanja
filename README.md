@@ -45,6 +45,6 @@ npm install
 
 <p align="center">
   <span>
-   <img src="https://postimg.cc/yJV3WDxg"   alt= border="0" />
+   <img src="https://i.postimg.cc/9f9d8Tjp/zwallet1.png"   alt= border="0" />
   </span>
 </p>
