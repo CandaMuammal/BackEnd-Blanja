@@ -21,7 +21,7 @@ Zwallet is a digital wallet apps that will really helps you to manage your e-mon
 - Clone This Repo
 
 ```
-git clone https://github.com/abudzr/zwallet-frontend.git
+git clone 
 ```
 
 - Go To Folder Repo
