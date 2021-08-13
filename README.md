@@ -18,16 +18,19 @@ Zwallet is a digital wallet apps that will really helps you to manage your e-mon
 
 ## 💻 How To Install?
 
-- Clone This Repo
+- Clone These 2 Repos (Backend and Frontend)
 
 ```
-git clone 
+git clone https://github.com/19damah23/Backend-mWallet
+git clone https://github.com/dwinovic/zwallet
+
 ```
 
 - Go To Folder Repo
 
 ```
 cd zwallet-frontend
+cd Backend-mWallet
 ```
 
 - Install Module
@@ -42,6 +45,6 @@ npm install
 
 <p align="center">
   <span>
-   <img src="./assets/zwallet1.png"   alt= border="0" />
+   <img src="https://postimg.cc/yJV3WDxg"   alt= border="0" />
   </span>
 </p>
