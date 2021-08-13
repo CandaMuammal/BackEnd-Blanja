@@ -84,8 +84,6 @@ npm install
 
 - Type ` npm start` To Start Website
 
-This is the repository Backend of the Bootcamp Arkademy task
-
 
 ## API_URL Endpoint
 
